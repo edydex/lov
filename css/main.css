@@ -3131,8 +3131,8 @@ html.no-csstransitions .hero-content {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-  padding-top: 12rem;
-  padding-bottom: 8rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #3b0d11;
   font-family: "Open Sans", sans-serif;
   font-size: 1.7rem;
