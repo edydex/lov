@@ -2535,8 +2535,6 @@ html.no-csstransitions .hero-content {
 }
 
 .s-about .btn--about {
-  display: block;
-  width: 100%;
   margin-right: 0;
   background-color: #21070a;
   border-color: #21070a;
