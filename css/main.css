@@ -3346,7 +3346,7 @@ html.no-csstransitions .hero-content {
   background-color: #121212;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   position: relative;
 }
 
